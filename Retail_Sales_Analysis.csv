@@ -1,0 +1,301 @@
+﻿Order_ID,Order_Date,Region,City,Category,Product,Quantity,Unit_Price_INR,Unit_Cost_INR,Payment_Mode,Sales_Channel,Total_Sales,Total_Cost,Profit,Profit_Margin
+RS0004,04-01-2025,West,Pune,Accessories,Sunglasses,5,600,260,Credit Card,Online,3000,1300,1700,0.566666667
+RS0151,04-01-2025,West,Pune,Home & Kitchen,Desk Lamp,2,950,540,UPI,In-store,1900,1080,820,0.431578947
+RS0157,04-01-2025,West,Ahmedabad,Stationery,Pen Set,3,180,70,Debit Card,Online,540,210,330,0.611111111
+RS0281,04-01-2025,East,Bhubaneswar,Home & Kitchen,Storage Box,2,700,360,UPI,In-store,1400,720,680,0.485714286
+RS0076,07-01-2025,East,Patna,Accessories,Backpack,7,1400,850,Cash,In-store,9800,5950,3850,0.392857143
+RS0138,08-01-2025,North,Jaipur,Home & Kitchen,Mixer Jar,1,1250,780,Debit Card,In-store,1250,780,470,0.376
+RS0161,11-01-2025,North,Delhi,Home & Kitchen,Desk Lamp,6,950,540,Cash,In-store,5700,3240,2460,0.431578947
+RS0262,12-01-2025,North,Jaipur,Accessories,Travel Pouch,7,350,140,Credit Card,Online,2450,980,1470,0.6
+RS0129,13-01-2025,North,Lucknow,Home & Kitchen,Water Bottle,8,450,220,Cash,In-store,3600,1760,1840,0.511111111
+RS0098,14-01-2025,South,Bengaluru,Home & Kitchen,Water Bottle,5,450,220,Credit Card,Online,2250,1100,1150,0.511111111
+RS0202,18-01-2025,West,Ahmedabad,Electronics,Keyboard,6,1100,650,Cash,In-store,6600,3900,2700,0.409090909
+RS0049,20-01-2025,South,Hyderabad,Accessories,Sunglasses,6,600,260,Net Banking,In-store,3600,1560,2040,0.566666667
+RS0006,23-01-2025,East,Patna,Electronics,USB Hub,2,900,520,Net Banking,Online,1800,1040,760,0.422222222
+RS0216,24-01-2025,North,Chandigarh,Home & Kitchen,Desk Lamp,1,950,540,Net Banking,Online,950,540,410,0.431578947
+RS0229,24-01-2025,South,Hyderabad,Home & Kitchen,Mixer Jar,8,1250,780,Credit Card,In-store,10000,6240,3760,0.376
+RS0188,25-01-2025,West,Mumbai,Accessories,Travel Pouch,2,350,140,Cash,In-store,700,280,420,0.6
+RS0196,25-01-2025,North,Chandigarh,Stationery,Notebook Pack,6,250,110,Cash,Online,1500,660,840,0.56
+RS0059,26-01-2025,West,Surat,Electronics,USB Hub,3,900,520,Net Banking,Online,2700,1560,1140,0.422222222
+RS0292,28-01-2025,South,Coimbatore,Accessories,Wallet,2,750,390,Net Banking,Online,1500,780,720,0.48
+RS0019,30-01-2025,West,Mumbai,Electronics,Wireless Mouse,8,650,380,Net Banking,In-store,5200,3040,2160,0.415384615
+RS0168,30-01-2025,North,Chandigarh,Stationery,Notebook Pack,2,250,110,Cash,In-store,500,220,280,0.56
+RS0026,01-02-2025,East,Bhubaneswar,Stationery,Notebook Pack,4,250,110,Credit Card,Online,1000,440,560,0.56
+RS0134,01-02-2025,East,Guwahati,Stationery,Pen Set,2,180,70,UPI,In-store,360,140,220,0.611111111
+RS0235,01-02-2025,West,Surat,Home & Kitchen,Mixer Jar,8,1250,780,Debit Card,In-store,10000,6240,3760,0.376
+RS0251,01-02-2025,South,Hyderabad,Accessories,Sunglasses,3,600,260,Net Banking,Online,1800,780,1020,0.566666667
+RS0022,02-02-2025,North,Delhi,Electronics,Keyboard,4,1100,650,UPI,In-store,4400,2600,1800,0.409090909
+RS0192,04-02-2025,North,Jaipur,Home & Kitchen,Water Bottle,6,450,220,UPI,Online,2700,1320,1380,0.511111111
+RS0136,05-02-2025,West,Pune,Home & Kitchen,Storage Box,6,700,360,Net Banking,In-store,4200,2160,2040,0.485714286
+RS0259,05-02-2025,East,Bhubaneswar,Electronics,Headphones,7,1800,1050,Credit Card,Online,12600,7350,5250,0.416666667
+RS0036,07-02-2025,West,Mumbai,Stationery,Pen Set,6,180,70,Credit Card,Online,1080,420,660,0.611111111
+RS0227,07-02-2025,East,Bhubaneswar,Accessories,Sunglasses,2,600,260,UPI,Online,1200,520,680,0.566666667
+RS0273,07-02-2025,West,Ahmedabad,Home & Kitchen,Desk Lamp,4,950,540,Debit Card,In-store,3800,2160,1640,0.431578947
+RS0113,08-02-2025,East,Kolkata,Stationery,File Folder,7,120,45,Debit Card,Online,840,315,525,0.625
+RS0160,09-02-2025,North,Lucknow,Accessories,Travel Pouch,7,350,140,UPI,Online,2450,980,1470,0.6
+RS0199,10-02-2025,North,Chandigarh,Stationery,File Folder,8,120,45,Credit Card,Online,960,360,600,0.625
+RS0214,10-02-2025,North,Lucknow,Home & Kitchen,Mixer Jar,3,1250,780,Net Banking,In-store,3750,2340,1410,0.376
+RS0068,12-02-2025,East,Kolkata,Home & Kitchen,Desk Lamp,3,950,540,Debit Card,Online,2850,1620,1230,0.431578947
+RS0198,12-02-2025,East,Patna,Electronics,USB Hub,3,900,520,Debit Card,In-store,2700,1560,1140,0.422222222
+RS0090,13-02-2025,West,Surat,Electronics,USB Hub,4,900,520,Cash,Online,3600,2080,1520,0.422222222
+RS0299,13-02-2025,West,Pune,Home & Kitchen,Desk Lamp,3,950,540,Debit Card,Online,2850,1620,1230,0.431578947
+RS0297,14-02-2025,West,Mumbai,Accessories,Travel Pouch,7,350,140,UPI,In-store,2450,980,1470,0.6
+RS0256,16-02-2025,East,Guwahati,Electronics,USB Hub,3,900,520,Cash,In-store,2700,1560,1140,0.422222222
+RS0296,16-02-2025,South,Coimbatore,Stationery,Desk Organizer,6,550,280,UPI,In-store,3300,1680,1620,0.490909091
+RS0146,17-02-2025,East,Kolkata,Electronics,Headphones,3,1800,1050,Net Banking,Online,5400,3150,2250,0.416666667
+RS0025,19-02-2025,East,Guwahati,Stationery,Desk Organizer,7,550,280,UPI,In-store,3850,1960,1890,0.490909091
+RS0008,21-02-2025,East,Bhubaneswar,Stationery,Desk Organizer,6,550,280,Debit Card,Online,3300,1680,1620,0.490909091
+RS0112,21-02-2025,East,Bhubaneswar,Electronics,USB Hub,1,900,520,Cash,In-store,900,520,380,0.422222222
+RS0177,21-02-2025,South,Chennai,Stationery,Pen Set,7,180,70,Credit Card,In-store,1260,490,770,0.611111111
+RS0005,22-02-2025,South,Coimbatore,Accessories,Backpack,6,1400,850,Net Banking,Online,8400,5100,3300,0.392857143
+RS0084,03-03-2025,West,Pune,Stationery,Notebook Pack,3,250,110,Credit Card,Online,750,330,420,0.56
+RS0158,03-03-2025,South,Chennai,Accessories,Travel Pouch,3,350,140,Cash,In-store,1050,420,630,0.6
+RS0139,06-03-2025,East,Guwahati,Electronics,Wireless Mouse,8,650,380,Debit Card,In-store,5200,3040,2160,0.415384615
+RS0020,07-03-2025,East,Bhubaneswar,Home & Kitchen,Mixer Jar,7,1250,780,Net Banking,In-store,8750,5460,3290,0.376
+RS0212,07-03-2025,West,Mumbai,Home & Kitchen,Desk Lamp,1,950,540,Net Banking,In-store,950,540,410,0.431578947
+RS0174,08-03-2025,South,Chennai,Stationery,Desk Organizer,6,550,280,Net Banking,In-store,3300,1680,1620,0.490909091
+RS0035,09-03-2025,North,Delhi,Accessories,Sunglasses,2,600,260,Cash,In-store,1200,520,680,0.566666667
+RS0027,13-03-2025,East,Bhubaneswar,Home & Kitchen,Mixer Jar,8,1250,780,UPI,Online,10000,6240,3760,0.376
+RS0130,13-03-2025,South,Bengaluru,Electronics,Headphones,8,1800,1050,UPI,In-store,14400,8400,6000,0.416666667
+RS0249,13-03-2025,East,Patna,Stationery,Pen Set,1,180,70,Cash,In-store,180,70,110,0.611111111
+RS0012,15-03-2025,North,Chandigarh,Home & Kitchen,Storage Box,5,700,360,Net Banking,Online,3500,1800,1700,0.485714286
+RS0239,16-03-2025,North,Lucknow,Electronics,Headphones,2,1800,1050,Cash,Online,3600,2100,1500,0.416666667
+RS0109,18-03-2025,East,Guwahati,Accessories,Sunglasses,6,600,260,Cash,Online,3600,1560,2040,0.566666667
+RS0253,20-03-2025,East,Bhubaneswar,Stationery,Desk Organizer,8,550,280,Credit Card,In-store,4400,2240,2160,0.490909091
+RS0247,25-03-2025,East,Patna,Stationery,Pen Set,1,180,70,Debit Card,In-store,180,70,110,0.611111111
+RS0073,27-03-2025,South,Bengaluru,Home & Kitchen,Mixer Jar,2,1250,780,Debit Card,Online,2500,1560,940,0.376
+RS0055,28-03-2025,South,Chennai,Stationery,File Folder,2,120,45,Debit Card,In-store,240,90,150,0.625
+RS0280,28-03-2025,West,Mumbai,Accessories,Wallet,1,750,390,UPI,In-store,750,390,360,0.48
+RS0233,29-03-2025,East,Kolkata,Home & Kitchen,Storage Box,1,700,360,Credit Card,In-store,700,360,340,0.485714286
+RS0207,30-03-2025,East,Kolkata,Electronics,Headphones,6,1800,1050,Net Banking,Online,10800,6300,4500,0.416666667
+RS0248,31-03-2025,East,Guwahati,Accessories,Sunglasses,2,600,260,UPI,In-store,1200,520,680,0.566666667
+RS0284,02-04-2025,South,Chennai,Electronics,Keyboard,4,1100,650,Net Banking,Online,4400,2600,1800,0.409090909
+RS0205,06-04-2025,East,Patna,Accessories,Backpack,5,1400,850,Cash,In-store,7000,4250,2750,0.392857143
+RS0245,06-04-2025,North,Delhi,Electronics,Wireless Mouse,5,650,380,Debit Card,Online,3250,1900,1350,0.415384615
+RS0103,07-04-2025,North,Jaipur,Accessories,Travel Pouch,1,350,140,Debit Card,In-store,350,140,210,0.6
+RS0110,07-04-2025,West,Mumbai,Accessories,Wallet,7,750,390,Debit Card,Online,5250,2730,2520,0.48
+RS0056,12-04-2025,West,Surat,Electronics,Wireless Mouse,4,650,380,Net Banking,In-store,2600,1520,1080,0.415384615
+RS0290,17-04-2025,West,Pune,Accessories,Backpack,5,1400,850,Net Banking,In-store,7000,4250,2750,0.392857143
+RS0009,18-04-2025,North,Jaipur,Electronics,Keyboard,4,1100,650,Cash,Online,4400,2600,1800,0.409090909
+RS0054,18-04-2025,East,Guwahati,Stationery,Desk Organizer,8,550,280,Credit Card,Online,4400,2240,2160,0.490909091
+RS0274,19-04-2025,West,Pune,Electronics,USB Hub,4,900,520,Cash,In-store,3600,2080,1520,0.422222222
+RS0024,20-04-2025,West,Surat,Accessories,Wallet,8,750,390,Credit Card,In-store,6000,3120,2880,0.48
+RS0187,21-04-2025,West,Pune,Accessories,Backpack,5,1400,850,Debit Card,In-store,7000,4250,2750,0.392857143
+RS0046,24-04-2025,West,Pune,Accessories,Sunglasses,5,600,260,Credit Card,In-store,3000,1300,1700,0.566666667
+RS0023,28-04-2025,South,Chennai,Electronics,Headphones,2,1800,1050,Debit Card,Online,3600,2100,1500,0.416666667
+RS0062,01-05-2025,North,Jaipur,Stationery,File Folder,2,120,45,Credit Card,In-store,240,90,150,0.625
+RS0164,01-05-2025,South,Chennai,Home & Kitchen,Mixer Jar,4,1250,780,Net Banking,In-store,5000,3120,1880,0.376
+RS0044,02-05-2025,West,Pune,Home & Kitchen,Desk Lamp,1,950,540,Debit Card,Online,950,540,410,0.431578947
+RS0209,02-05-2025,East,Guwahati,Electronics,Headphones,6,1800,1050,Net Banking,In-store,10800,6300,4500,0.416666667
+RS0072,03-05-2025,West,Surat,Accessories,Backpack,4,1400,850,Debit Card,Online,5600,3400,2200,0.392857143
+RS0190,04-05-2025,East,Kolkata,Home & Kitchen,Water Bottle,6,450,220,Net Banking,In-store,2700,1320,1380,0.511111111
+RS0224,04-05-2025,West,Ahmedabad,Stationery,Notebook Pack,1,250,110,Cash,Online,250,110,140,0.56
+RS0264,04-05-2025,West,Surat,Electronics,Wireless Mouse,1,650,380,Net Banking,In-store,650,380,270,0.415384615
+RS0270,04-05-2025,West,Mumbai,Stationery,Pen Set,8,180,70,Net Banking,Online,1440,560,880,0.611111111
+RS0107,05-05-2025,East,Bhubaneswar,Home & Kitchen,Desk Lamp,4,950,540,UPI,Online,3800,2160,1640,0.431578947
+RS0162,05-05-2025,East,Patna,Accessories,Backpack,7,1400,850,Debit Card,In-store,9800,5950,3850,0.392857143
+RS0241,05-05-2025,South,Bengaluru,Home & Kitchen,Storage Box,1,700,360,Cash,Online,700,360,340,0.485714286
+RS0265,06-05-2025,South,Chennai,Accessories,Travel Pouch,4,350,140,UPI,In-store,1400,560,840,0.6
+RS0221,07-05-2025,West,Surat,Electronics,Wireless Mouse,5,650,380,Net Banking,Online,3250,1900,1350,0.415384615
+RS0222,08-05-2025,West,Pune,Stationery,File Folder,4,120,45,Cash,Online,480,180,300,0.625
+RS0070,10-05-2025,South,Coimbatore,Accessories,Backpack,1,1400,850,Credit Card,In-store,1400,850,550,0.392857143
+RS0102,10-05-2025,North,Chandigarh,Electronics,USB Hub,1,900,520,Cash,In-store,900,520,380,0.422222222
+RS0119,11-05-2025,South,Bengaluru,Accessories,Sunglasses,3,600,260,Cash,Online,1800,780,1020,0.566666667
+RS0080,13-05-2025,North,Jaipur,Stationery,File Folder,1,120,45,UPI,In-store,120,45,75,0.625
+RS0038,16-05-2025,South,Coimbatore,Electronics,Keyboard,5,1100,650,Net Banking,In-store,5500,3250,2250,0.409090909
+RS0011,18-05-2025,South,Hyderabad,Home & Kitchen,Mixer Jar,4,1250,780,Cash,Online,5000,3120,1880,0.376
+RS0295,18-05-2025,West,Ahmedabad,Accessories,Wallet,7,750,390,Debit Card,In-store,5250,2730,2520,0.48
+RS0300,18-05-2025,East,Guwahati,Home & Kitchen,Water Bottle,3,450,220,Debit Card,Online,1350,660,690,0.511111111
+RS0010,19-05-2025,West,Mumbai,Stationery,Notebook Pack,4,250,110,Debit Card,Online,1000,440,560,0.56
+RS0289,19-05-2025,South,Chennai,Electronics,Headphones,1,1800,1050,Debit Card,In-store,1800,1050,750,0.416666667
+RS0167,21-05-2025,South,Hyderabad,Stationery,Notebook Pack,5,250,110,Cash,In-store,1250,550,700,0.56
+RS0040,22-05-2025,South,Coimbatore,Electronics,Headphones,3,1800,1050,Credit Card,Online,5400,3150,2250,0.416666667
+RS0085,22-05-2025,North,Jaipur,Electronics,Keyboard,5,1100,650,Debit Card,In-store,5500,3250,2250,0.409090909
+RS0137,22-05-2025,West,Mumbai,Home & Kitchen,Mixer Jar,3,1250,780,UPI,In-store,3750,2340,1410,0.376
+RS0037,26-05-2025,West,Ahmedabad,Accessories,Sunglasses,1,600,260,UPI,In-store,600,260,340,0.566666667
+RS0225,27-05-2025,South,Coimbatore,Electronics,USB Hub,3,900,520,Debit Card,Online,2700,1560,1140,0.422222222
+RS0104,28-05-2025,East,Bhubaneswar,Accessories,Backpack,1,1400,850,Credit Card,Online,1400,850,550,0.392857143
+RS0082,31-05-2025,West,Ahmedabad,Accessories,Wallet,5,750,390,Cash,Online,3750,1950,1800,0.48
+RS0031,01-06-2025,West,Mumbai,Electronics,Wireless Mouse,6,650,380,UPI,Online,3900,2280,1620,0.415384615
+RS0278,01-06-2025,West,Surat,Home & Kitchen,Mixer Jar,4,1250,780,Net Banking,In-store,5000,3120,1880,0.376
+RS0091,02-06-2025,East,Bhubaneswar,Stationery,Notebook Pack,2,250,110,Credit Card,Online,500,220,280,0.56
+RS0208,03-06-2025,West,Mumbai,Home & Kitchen,Mixer Jar,4,1250,780,Credit Card,In-store,5000,3120,1880,0.376
+RS0086,04-06-2025,South,Bengaluru,Home & Kitchen,Mixer Jar,1,1250,780,Net Banking,Online,1250,780,470,0.376
+RS0213,05-06-2025,West,Ahmedabad,Home & Kitchen,Mixer Jar,4,1250,780,Net Banking,Online,5000,3120,1880,0.376
+RS0096,07-06-2025,North,Lucknow,Accessories,Backpack,8,1400,850,Cash,Online,11200,6800,4400,0.392857143
+RS0124,08-06-2025,East,Kolkata,Electronics,Headphones,3,1800,1050,Debit Card,Online,5400,3150,2250,0.416666667
+RS0195,08-06-2025,East,Bhubaneswar,Accessories,Sunglasses,1,600,260,Debit Card,Online,600,260,340,0.566666667
+RS0021,09-06-2025,East,Kolkata,Stationery,Desk Organizer,8,550,280,Credit Card,In-store,4400,2240,2160,0.490909091
+RS0153,09-06-2025,North,Jaipur,Electronics,Wireless Mouse,3,650,380,Net Banking,In-store,1950,1140,810,0.415384615
+RS0145,10-06-2025,North,Delhi,Stationery,Pen Set,8,180,70,UPI,In-store,1440,560,880,0.611111111
+RS0277,10-06-2025,East,Kolkata,Electronics,Keyboard,3,1100,650,Debit Card,Online,3300,1950,1350,0.409090909
+RS0114,12-06-2025,East,Patna,Electronics,Wireless Mouse,4,650,380,Credit Card,In-store,2600,1520,1080,0.415384615
+RS0185,13-06-2025,South,Bengaluru,Stationery,Pen Set,3,180,70,Debit Card,Online,540,210,330,0.611111111
+RS0078,15-06-2025,West,Pune,Electronics,Headphones,8,1800,1050,Cash,Online,14400,8400,6000,0.416666667
+RS0116,16-06-2025,South,Hyderabad,Stationery,File Folder,6,120,45,Credit Card,In-store,720,270,450,0.625
+RS0069,17-06-2025,West,Surat,Accessories,Sunglasses,6,600,260,Debit Card,Online,3600,1560,2040,0.566666667
+RS0230,17-06-2025,North,Lucknow,Home & Kitchen,Desk Lamp,5,950,540,Net Banking,Online,4750,2700,2050,0.431578947
+RS0293,17-06-2025,South,Chennai,Stationery,Desk Organizer,8,550,280,Debit Card,Online,4400,2240,2160,0.490909091
+RS0163,20-06-2025,West,Ahmedabad,Electronics,Wireless Mouse,4,650,380,Debit Card,In-store,2600,1520,1080,0.415384615
+RS0079,22-06-2025,South,Hyderabad,Accessories,Sunglasses,3,600,260,Credit Card,Online,1800,780,1020,0.566666667
+RS0176,24-06-2025,East,Bhubaneswar,Home & Kitchen,Storage Box,3,700,360,UPI,Online,2100,1080,1020,0.485714286
+RS0219,24-06-2025,West,Surat,Stationery,File Folder,6,120,45,Credit Card,Online,720,270,450,0.625
+RS0039,25-06-2025,West,Mumbai,Stationery,Desk Organizer,5,550,280,UPI,Online,2750,1400,1350,0.490909091
+RS0170,25-06-2025,South,Hyderabad,Home & Kitchen,Water Bottle,4,450,220,Cash,In-store,1800,880,920,0.511111111
+RS0263,27-06-2025,West,Mumbai,Stationery,Pen Set,2,180,70,Cash,In-store,360,140,220,0.611111111
+RS0100,28-06-2025,East,Bhubaneswar,Stationery,File Folder,2,120,45,Debit Card,Online,240,90,150,0.625
+RS0200,29-06-2025,East,Patna,Electronics,Headphones,7,1800,1050,UPI,In-store,12600,7350,5250,0.416666667
+RS0148,30-06-2025,South,Chennai,Home & Kitchen,Storage Box,8,700,360,UPI,Online,5600,2880,2720,0.485714286
+RS0285,01-07-2025,North,Chandigarh,Accessories,Backpack,6,1400,850,Cash,In-store,8400,5100,3300,0.392857143
+RS0298,01-07-2025,South,Coimbatore,Stationery,Desk Organizer,1,550,280,Cash,Online,550,280,270,0.490909091
+RS0043,03-07-2025,West,Surat,Home & Kitchen,Water Bottle,6,450,220,Net Banking,In-store,2700,1320,1380,0.511111111
+RS0276,04-07-2025,East,Patna,Accessories,Backpack,8,1400,850,Credit Card,Online,11200,6800,4400,0.392857143
+RS0013,05-07-2025,West,Mumbai,Home & Kitchen,Desk Lamp,2,950,540,UPI,In-store,1900,1080,820,0.431578947
+RS0051,06-07-2025,East,Kolkata,Electronics,Headphones,6,1800,1050,Debit Card,Online,10800,6300,4500,0.416666667
+RS0171,06-07-2025,North,Lucknow,Stationery,Desk Organizer,7,550,280,Net Banking,In-store,3850,1960,1890,0.490909091
+RS0226,07-07-2025,South,Coimbatore,Accessories,Backpack,4,1400,850,Net Banking,Online,5600,3400,2200,0.392857143
+RS0180,08-07-2025,East,Guwahati,Accessories,Sunglasses,7,600,260,Credit Card,In-store,4200,1820,2380,0.566666667
+RS0042,09-07-2025,West,Ahmedabad,Accessories,Wallet,1,750,390,Debit Card,In-store,750,390,360,0.48
+RS0228,11-07-2025,North,Chandigarh,Stationery,Pen Set,4,180,70,Net Banking,In-store,720,280,440,0.611111111
+RS0260,11-07-2025,East,Kolkata,Accessories,Travel Pouch,7,350,140,Net Banking,In-store,2450,980,1470,0.6
+RS0287,13-07-2025,East,Kolkata,Electronics,Wireless Mouse,3,650,380,Cash,Online,1950,1140,810,0.415384615
+RS0063,16-07-2025,West,Surat,Home & Kitchen,Water Bottle,7,450,220,Debit Card,Online,3150,1540,1610,0.511111111
+RS0050,17-07-2025,West,Mumbai,Stationery,Notebook Pack,7,250,110,Net Banking,In-store,1750,770,980,0.56
+RS0197,17-07-2025,North,Lucknow,Home & Kitchen,Desk Lamp,8,950,540,Net Banking,Online,7600,4320,3280,0.431578947
+RS0030,19-07-2025,North,Chandigarh,Accessories,Sunglasses,7,600,260,Credit Card,In-store,4200,1820,2380,0.566666667
+RS0191,19-07-2025,East,Patna,Electronics,USB Hub,6,900,520,UPI,Online,5400,3120,2280,0.422222222
+RS0184,22-07-2025,North,Lucknow,Home & Kitchen,Desk Lamp,2,950,540,Credit Card,In-store,1900,1080,820,0.431578947
+RS0074,23-07-2025,West,Ahmedabad,Electronics,Keyboard,2,1100,650,Net Banking,In-store,2200,1300,900,0.409090909
+RS0089,25-07-2025,East,Bhubaneswar,Electronics,Wireless Mouse,3,650,380,Net Banking,Online,1950,1140,810,0.415384615
+RS0141,25-07-2025,East,Kolkata,Electronics,USB Hub,8,900,520,UPI,Online,7200,4160,3040,0.422222222
+RS0081,28-07-2025,East,Guwahati,Home & Kitchen,Desk Lamp,8,950,540,UPI,In-store,7600,4320,3280,0.431578947
+RS0093,29-07-2025,East,Bhubaneswar,Accessories,Sunglasses,1,600,260,Debit Card,Online,600,260,340,0.566666667
+RS0211,29-07-2025,South,Hyderabad,Home & Kitchen,Mixer Jar,2,1250,780,Cash,Online,2500,1560,940,0.376
+RS0144,31-07-2025,North,Delhi,Accessories,Travel Pouch,7,350,140,Debit Card,Online,2450,980,1470,0.6
+RS0064,01-08-2025,South,Bengaluru,Home & Kitchen,Desk Lamp,7,950,540,Net Banking,Online,6650,3780,2870,0.431578947
+RS0108,01-08-2025,North,Lucknow,Stationery,Notebook Pack,5,250,110,Net Banking,Online,1250,550,700,0.56
+RS0125,01-08-2025,West,Ahmedabad,Home & Kitchen,Storage Box,6,700,360,Credit Card,Online,4200,2160,2040,0.485714286
+RS0132,01-08-2025,South,Bengaluru,Accessories,Travel Pouch,5,350,140,Debit Card,In-store,1750,700,1050,0.6
+RS0155,01-08-2025,North,Chandigarh,Home & Kitchen,Water Bottle,6,450,220,UPI,Online,2700,1320,1380,0.511111111
+RS0271,02-08-2025,West,Pune,Accessories,Wallet,5,750,390,Debit Card,In-store,3750,1950,1800,0.48
+RS0034,03-08-2025,North,Jaipur,Stationery,Pen Set,6,180,70,Debit Card,Online,1080,420,660,0.611111111
+RS0083,06-08-2025,North,Lucknow,Stationery,Desk Organizer,5,550,280,Debit Card,In-store,2750,1400,1350,0.490909091
+RS0294,10-08-2025,West,Pune,Accessories,Backpack,5,1400,850,UPI,In-store,7000,4250,2750,0.392857143
+RS0016,11-08-2025,West,Pune,Accessories,Backpack,5,1400,850,Net Banking,In-store,7000,4250,2750,0.392857143
+RS0077,11-08-2025,West,Surat,Stationery,Desk Organizer,8,550,280,Net Banking,Online,4400,2240,2160,0.490909091
+RS0115,11-08-2025,South,Coimbatore,Electronics,USB Hub,3,900,520,UPI,In-store,2700,1560,1140,0.422222222
+RS0183,12-08-2025,South,Bengaluru,Home & Kitchen,Desk Lamp,6,950,540,Cash,In-store,5700,3240,2460,0.431578947
+RS0088,14-08-2025,North,Chandigarh,Home & Kitchen,Water Bottle,5,450,220,UPI,In-store,2250,1100,1150,0.511111111
+RS0234,14-08-2025,North,Jaipur,Accessories,Wallet,7,750,390,Cash,Online,5250,2730,2520,0.48
+RS0060,15-08-2025,East,Guwahati,Accessories,Wallet,8,750,390,Debit Card,In-store,6000,3120,2880,0.48
+RS0133,16-08-2025,East,Patna,Home & Kitchen,Mixer Jar,2,1250,780,Net Banking,Online,2500,1560,940,0.376
+RS0250,17-08-2025,North,Lucknow,Stationery,File Folder,1,120,45,Debit Card,In-store,120,45,75,0.625
+RS0169,19-08-2025,West,Mumbai,Stationery,Desk Organizer,3,550,280,Cash,In-store,1650,840,810,0.490909091
+RS0272,19-08-2025,North,Lucknow,Electronics,Keyboard,1,1100,650,Cash,In-store,1100,650,450,0.409090909
+RS0140,20-08-2025,West,Mumbai,Electronics,Headphones,8,1800,1050,UPI,Online,14400,8400,6000,0.416666667
+RS0128,21-08-2025,North,Delhi,Stationery,Desk Organizer,6,550,280,Credit Card,Online,3300,1680,1620,0.490909091
+RS0143,21-08-2025,East,Guwahati,Electronics,Wireless Mouse,4,650,380,Cash,In-store,2600,1520,1080,0.415384615
+RS0246,21-08-2025,East,Bhubaneswar,Home & Kitchen,Desk Lamp,5,950,540,UPI,Online,4750,2700,2050,0.431578947
+RS0057,22-08-2025,East,Guwahati,Home & Kitchen,Desk Lamp,8,950,540,Credit Card,In-store,7600,4320,3280,0.431578947
+RS0194,23-08-2025,South,Chennai,Stationery,Pen Set,1,180,70,UPI,Online,180,70,110,0.611111111
+RS0236,24-08-2025,North,Jaipur,Stationery,File Folder,8,120,45,Credit Card,Online,960,360,600,0.625
+RS0242,30-08-2025,South,Hyderabad,Home & Kitchen,Water Bottle,3,450,220,Cash,Online,1350,660,690,0.511111111
+RS0065,02-09-2025,South,Hyderabad,Stationery,File Folder,7,120,45,Net Banking,In-store,840,315,525,0.625
+RS0238,03-09-2025,North,Chandigarh,Stationery,File Folder,2,120,45,Cash,Online,240,90,150,0.625
+RS0240,03-09-2025,West,Pune,Home & Kitchen,Mixer Jar,5,1250,780,UPI,In-store,6250,3900,2350,0.376
+RS0126,04-09-2025,North,Delhi,Stationery,Notebook Pack,8,250,110,Credit Card,In-store,2000,880,1120,0.56
+RS0121,05-09-2025,South,Coimbatore,Home & Kitchen,Desk Lamp,6,950,540,Debit Card,In-store,5700,3240,2460,0.431578947
+RS0029,06-09-2025,East,Bhubaneswar,Home & Kitchen,Desk Lamp,1,950,540,Cash,In-store,950,540,410,0.431578947
+RS0066,07-09-2025,West,Mumbai,Stationery,Desk Organizer,8,550,280,Cash,Online,4400,2240,2160,0.490909091
+RS0223,13-09-2025,North,Chandigarh,Accessories,Backpack,2,1400,850,Net Banking,Online,2800,1700,1100,0.392857143
+RS0279,13-09-2025,North,Chandigarh,Stationery,Desk Organizer,8,550,280,Credit Card,Online,4400,2240,2160,0.490909091
+RS0097,14-09-2025,East,Guwahati,Accessories,Backpack,1,1400,850,Debit Card,Online,1400,850,550,0.392857143
+RS0159,14-09-2025,North,Chandigarh,Electronics,USB Hub,1,900,520,UPI,Online,900,520,380,0.422222222
+RS0032,15-09-2025,West,Mumbai,Electronics,Wireless Mouse,3,650,380,Net Banking,In-store,1950,1140,810,0.415384615
+RS0215,15-09-2025,West,Mumbai,Home & Kitchen,Storage Box,6,700,360,UPI,In-store,4200,2160,2040,0.485714286
+RS0266,15-09-2025,North,Jaipur,Home & Kitchen,Mixer Jar,6,1250,780,Debit Card,In-store,7500,4680,2820,0.376
+RS0003,16-09-2025,South,Hyderabad,Home & Kitchen,Desk Lamp,4,950,540,Net Banking,Online,3800,2160,1640,0.431578947
+RS0282,16-09-2025,East,Guwahati,Stationery,Notebook Pack,8,250,110,UPI,In-store,2000,880,1120,0.56
+RS0220,21-09-2025,South,Bengaluru,Stationery,Pen Set,8,180,70,Debit Card,Online,1440,560,880,0.611111111
+RS0099,23-09-2025,East,Guwahati,Stationery,Pen Set,7,180,70,UPI,Online,1260,490,770,0.611111111
+RS0254,27-09-2025,East,Kolkata,Stationery,Notebook Pack,2,250,110,Net Banking,In-store,500,220,280,0.56
+RS0015,28-09-2025,North,Lucknow,Electronics,Wireless Mouse,5,650,380,UPI,Online,3250,1900,1350,0.415384615
+RS0117,29-09-2025,East,Kolkata,Home & Kitchen,Storage Box,3,700,360,Net Banking,Online,2100,1080,1020,0.485714286
+RS0152,29-09-2025,West,Ahmedabad,Accessories,Travel Pouch,8,350,140,Credit Card,Online,2800,1120,1680,0.6
+RS0204,29-09-2025,North,Jaipur,Accessories,Sunglasses,5,600,260,UPI,In-store,3000,1300,1700,0.566666667
+RS0283,30-09-2025,East,Patna,Electronics,Wireless Mouse,5,650,380,UPI,Online,3250,1900,1350,0.415384615
+RS0244,01-10-2025,South,Bengaluru,Home & Kitchen,Desk Lamp,3,950,540,Cash,Online,2850,1620,1230,0.431578947
+RS0131,03-10-2025,West,Surat,Accessories,Travel Pouch,6,350,140,Net Banking,In-store,2100,840,1260,0.6
+RS0095,06-10-2025,West,Mumbai,Home & Kitchen,Mixer Jar,3,1250,780,UPI,In-store,3750,2340,1410,0.376
+RS0193,07-10-2025,North,Jaipur,Home & Kitchen,Desk Lamp,8,950,540,Credit Card,In-store,7600,4320,3280,0.431578947
+RS0028,09-10-2025,South,Chennai,Electronics,Wireless Mouse,2,650,380,Credit Card,Online,1300,760,540,0.415384615
+RS0041,10-10-2025,East,Bhubaneswar,Electronics,Wireless Mouse,2,650,380,Net Banking,In-store,1300,760,540,0.415384615
+RS0105,10-10-2025,South,Bengaluru,Accessories,Backpack,4,1400,850,Cash,In-store,5600,3400,2200,0.392857143
+RS0275,10-10-2025,North,Lucknow,Stationery,Desk Organizer,8,550,280,Debit Card,Online,4400,2240,2160,0.490909091
+RS0149,12-10-2025,North,Chandigarh,Electronics,Headphones,4,1800,1050,Net Banking,In-store,7200,4200,3000,0.416666667
+RS0237,13-10-2025,North,Jaipur,Home & Kitchen,Mixer Jar,5,1250,780,Cash,Online,6250,3900,2350,0.376
+RS0257,14-10-2025,East,Patna,Stationery,Notebook Pack,7,250,110,UPI,In-store,1750,770,980,0.56
+RS0075,17-10-2025,South,Bengaluru,Stationery,Desk Organizer,6,550,280,Net Banking,Online,3300,1680,1620,0.490909091
+RS0291,18-10-2025,East,Kolkata,Stationery,Desk Organizer,3,550,280,Net Banking,Online,1650,840,810,0.490909091
+RS0255,21-10-2025,West,Mumbai,Home & Kitchen,Mixer Jar,8,1250,780,Credit Card,Online,10000,6240,3760,0.376
+RS0007,23-10-2025,West,Ahmedabad,Electronics,Wireless Mouse,4,650,380,UPI,In-store,2600,1520,1080,0.415384615
+RS0258,24-10-2025,South,Bengaluru,Electronics,USB Hub,6,900,520,Net Banking,In-store,5400,3120,2280,0.422222222
+RS0232,26-10-2025,North,Jaipur,Electronics,USB Hub,5,900,520,UPI,Online,4500,2600,1900,0.422222222
+RS0120,28-10-2025,North,Lucknow,Accessories,Sunglasses,8,600,260,Credit Card,Online,4800,2080,2720,0.566666667
+RS0018,03-11-2025,North,Lucknow,Accessories,Backpack,2,1400,850,Debit Card,In-store,2800,1700,1100,0.392857143
+RS0181,06-11-2025,West,Ahmedabad,Stationery,Notebook Pack,8,250,110,Net Banking,In-store,2000,880,1120,0.56
+RS0203,06-11-2025,West,Surat,Accessories,Sunglasses,6,600,260,UPI,In-store,3600,1560,2040,0.566666667
+RS0123,07-11-2025,North,Jaipur,Home & Kitchen,Storage Box,5,700,360,UPI,In-store,3500,1800,1700,0.485714286
+RS0142,08-11-2025,West,Ahmedabad,Electronics,Keyboard,5,1100,650,Cash,Online,5500,3250,2250,0.409090909
+RS0150,08-11-2025,North,Lucknow,Electronics,Keyboard,5,1100,650,Debit Card,Online,5500,3250,2250,0.409090909
+RS0179,09-11-2025,North,Lucknow,Accessories,Wallet,4,750,390,Cash,In-store,3000,1560,1440,0.48
+RS0206,10-11-2025,North,Jaipur,Accessories,Wallet,2,750,390,UPI,Online,1500,780,720,0.48
+RS0210,10-11-2025,South,Hyderabad,Electronics,Headphones,7,1800,1050,Net Banking,Online,12600,7350,5250,0.416666667
+RS0118,14-11-2025,West,Surat,Accessories,Wallet,4,750,390,Debit Card,Online,3000,1560,1440,0.48
+RS0017,17-11-2025,North,Jaipur,Home & Kitchen,Storage Box,6,700,360,Net Banking,In-store,4200,2160,2040,0.485714286
+RS0268,17-11-2025,East,Guwahati,Accessories,Backpack,6,1400,850,Net Banking,Online,8400,5100,3300,0.392857143
+RS0014,18-11-2025,West,Surat,Accessories,Backpack,7,1400,850,Net Banking,Online,9800,5950,3850,0.392857143
+RS0166,18-11-2025,North,Chandigarh,Home & Kitchen,Desk Lamp,2,950,540,Cash,Online,1900,1080,820,0.431578947
+RS0172,20-11-2025,North,Chandigarh,Electronics,Headphones,2,1800,1050,Debit Card,Online,3600,2100,1500,0.416666667
+RS0189,20-11-2025,West,Mumbai,Home & Kitchen,Mixer Jar,7,1250,780,Net Banking,Online,8750,5460,3290,0.376
+RS0061,23-11-2025,North,Chandigarh,Accessories,Wallet,5,750,390,UPI,Online,3750,1950,1800,0.48
+RS0001,24-11-2025,South,Chennai,Electronics,Headphones,4,1800,1050,Credit Card,In-store,7200,4200,3000,0.416666667
+RS0048,25-11-2025,East,Patna,Stationery,Notebook Pack,2,250,110,Credit Card,Online,500,220,280,0.56
+RS0135,25-11-2025,South,Chennai,Electronics,Headphones,4,1800,1050,Net Banking,In-store,7200,4200,3000,0.416666667
+RS0217,25-11-2025,North,Lucknow,Accessories,Wallet,7,750,390,Cash,In-store,5250,2730,2520,0.48
+RS0175,27-11-2025,East,Patna,Stationery,Notebook Pack,6,250,110,Credit Card,In-store,1500,660,840,0.56
+RS0288,27-11-2025,North,Jaipur,Electronics,Wireless Mouse,4,650,380,Net Banking,Online,2600,1520,1080,0.415384615
+RS0106,28-11-2025,West,Surat,Accessories,Sunglasses,5,600,260,Cash,Online,3000,1300,1700,0.566666667
+RS0071,30-11-2025,South,Bengaluru,Electronics,Keyboard,4,1100,650,Net Banking,In-store,4400,2600,1800,0.409090909
+RS0243,30-11-2025,West,Mumbai,Stationery,File Folder,5,120,45,UPI,In-store,600,225,375,0.625
+RS0261,01-12-2025,North,Jaipur,Electronics,Keyboard,7,1100,650,Credit Card,In-store,7700,4550,3150,0.409090909
+RS0058,02-12-2025,South,Chennai,Electronics,USB Hub,4,900,520,Net Banking,Online,3600,2080,1520,0.422222222
+RS0165,02-12-2025,South,Hyderabad,Home & Kitchen,Desk Lamp,8,950,540,Net Banking,Online,7600,4320,3280,0.431578947
+RS0173,03-12-2025,West,Ahmedabad,Stationery,Notebook Pack,3,250,110,Debit Card,Online,750,330,420,0.56
+RS0047,04-12-2025,West,Mumbai,Accessories,Sunglasses,5,600,260,Debit Card,Online,3000,1300,1700,0.566666667
+RS0122,04-12-2025,East,Guwahati,Stationery,Notebook Pack,1,250,110,Debit Card,In-store,250,110,140,0.56
+RS0092,05-12-2025,South,Bengaluru,Home & Kitchen,Storage Box,3,700,360,Credit Card,In-store,2100,1080,1020,0.485714286
+RS0267,05-12-2025,West,Mumbai,Accessories,Sunglasses,5,600,260,Net Banking,In-store,3000,1300,1700,0.566666667
+RS0053,07-12-2025,East,Kolkata,Home & Kitchen,Mixer Jar,7,1250,780,Debit Card,Online,8750,5460,3290,0.376
+RS0052,08-12-2025,East,Bhubaneswar,Stationery,Desk Organizer,5,550,280,Credit Card,Online,2750,1400,1350,0.490909091
+RS0045,09-12-2025,West,Surat,Stationery,Pen Set,2,180,70,UPI,Online,360,140,220,0.611111111
+RS0067,09-12-2025,East,Kolkata,Home & Kitchen,Desk Lamp,3,950,540,Cash,In-store,2850,1620,1230,0.431578947
+RS0147,10-12-2025,South,Bengaluru,Accessories,Sunglasses,7,600,260,Debit Card,Online,4200,1820,2380,0.566666667
+RS0201,10-12-2025,East,Bhubaneswar,Stationery,Pen Set,1,180,70,Net Banking,Online,180,70,110,0.611111111
+RS0033,12-12-2025,West,Mumbai,Accessories,Backpack,4,1400,850,Net Banking,In-store,5600,3400,2200,0.392857143
+RS0154,12-12-2025,South,Hyderabad,Stationery,Desk Organizer,7,550,280,Net Banking,Online,3850,1960,1890,0.490909091
+RS0002,13-12-2025,South,Bengaluru,Accessories,Backpack,1,1400,850,Credit Card,In-store,1400,850,550,0.392857143
+RS0127,13-12-2025,East,Kolkata,Stationery,Notebook Pack,7,250,110,Debit Card,In-store,1750,770,980,0.56
+RS0156,14-12-2025,East,Guwahati,Stationery,Notebook Pack,4,250,110,Net Banking,In-store,1000,440,560,0.56
+RS0218,19-12-2025,South,Hyderabad,Home & Kitchen,Desk Lamp,7,950,540,Cash,In-store,6650,3780,2870,0.431578947
+RS0252,20-12-2025,South,Chennai,Stationery,File Folder,4,120,45,Credit Card,Online,480,180,300,0.625
+RS0178,21-12-2025,West,Ahmedabad,Accessories,Backpack,7,1400,850,Credit Card,Online,9800,5950,3850,0.392857143
+RS0101,22-12-2025,East,Guwahati,Stationery,Desk Organizer,1,550,280,UPI,Online,550,280,270,0.490909091
+RS0186,23-12-2025,West,Mumbai,Accessories,Travel Pouch,1,350,140,UPI,Online,350,140,210,0.6
+RS0269,23-12-2025,East,Guwahati,Accessories,Wallet,5,750,390,Credit Card,Online,3750,1950,1800,0.48
+RS0286,23-12-2025,West,Mumbai,Stationery,Notebook Pack,1,250,110,Cash,Online,250,110,140,0.56
+RS0087,24-12-2025,West,Ahmedabad,Accessories,Backpack,1,1400,850,Cash,Online,1400,850,550,0.392857143
+RS0094,26-12-2025,East,Bhubaneswar,Electronics,Keyboard,5,1100,650,Cash,In-store,5500,3250,2250,0.409090909
+RS0111,28-12-2025,East,Kolkata,Accessories,Wallet,8,750,390,Credit Card,Online,6000,3120,2880,0.48
+RS0231,29-12-2025,North,Lucknow,Accessories,Backpack,6,1400,850,UPI,Online,8400,5100,3300,0.392857143
+RS0182,31-12-2025,South,Coimbatore,Stationery,Notebook Pack,3,250,110,Cash,In-store,750,330,420,0.56
