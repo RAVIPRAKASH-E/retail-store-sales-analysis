@@ -1,0 +1,37 @@
+Retail Store Sales Performance Analysis
+Project Overview
+This project analyzes retail sales data to identify revenue trends, profitable product categories, regional performance, and customer payment preferences.
+Tools & Technologies
+- Microsoft Excel – Data cleaning, formulas, and PivotTables
+- MySQL – Data analysis using SQL queries
+- Power BI – Interactive dashboard and visualizations
+Dataset
+- 300 sales records
+- Sales data from 2025
+- Includes region, city, product, category, quantity, pricing, payment mode, and sales channel.
+Key Performance Indicators
+- **Total Revenue:** ₹10,78,800
+- **Total Profit:** ₹4,77,335
+- **Total Orders:** 300
+- **Average Order Value:** ₹3,596
+Analysis Performed
+- Regional sales performance
+- Revenue by product category
+- Top-performing products
+- Monthly revenue trends
+- Sales channel performance
+- Payment mode analysis
+- Profitability analysis
+Project Files
+- Excel workbook
+- Raw CSV dataset
+- MySQL queries
+- Power BI dashboard
+- Dashboard screenshot
+Objective
+To demonstrate practical skills in data cleaning, spreadsheet analysis, SQL querying, business intelligence, and data visualization.
+
+Note: This project uses a sample synthetic dataset created for learning and portfolio demonstration.
+To demonstrate practical skills in data cleaning, spreadsheet analysis, SQL querying, business intelligence, and data visualization.
+
+*Note: This project uses a sample synthetic dataset created for learning and portfolio demonstration.*
